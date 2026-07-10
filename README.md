@@ -40,14 +40,15 @@ https://opti-crop-omega.vercel.app
 OptiCrop/
 │
 ├── static/
+
 │   ├── style.css
+
 │   └── farm.jpg
-│
 
 ├── templates/
+
 │   └── index.html
 
-│
 ├── crop_model.pkl
 
 ├── app.py
