@@ -44,6 +44,7 @@ OptiCrop/
 │   ├── style.css
 │   └── farm.jpg
 │
+
 ├── templates/
 │   └── index.html
 
