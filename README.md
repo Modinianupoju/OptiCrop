@@ -40,7 +40,6 @@ https://opti-crop-omega.vercel.app
 OptiCrop/
 │
 ├── static/
-
 │   ├── style.css
 │   └── farm.jpg
 │
